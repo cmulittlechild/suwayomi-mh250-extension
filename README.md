@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/i
 
 ## 直接下载 APK
 
-- [apk/tachiyomi-zh.mh250-v1.4.1.apk](apk/tachiyomi-zh.mh250-v1.4.1.apk)
+- [apk/tachiyomi-zh.mh250-v1.4.2.apk](apk/tachiyomi-zh.mh250-v1.4.2.apk)
 
 ## 使用提示
 
@@ -42,9 +42,13 @@ https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/i
 ## 版本
 
 - package: `eu.kanade.tachiyomi.extension.zh.mh250`
-- version: `1.4.1`
+- version: `1.4.2`
 - lib: `1.4`
 
 ## 免责声明
 
 仅供个人学习与自用。请遵守当地法律与目标网站条款。
+
+## Changelog
+
+- **1.4.2**: fix false “missing chapters” by parsing chapter numbers from titles instead of site URL ids.
