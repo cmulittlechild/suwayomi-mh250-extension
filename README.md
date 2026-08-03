@@ -1,39 +1,42 @@
-# MH250 Extension Repo (Suwayomi / Mihon)
+# MH250 Extension Store (Suwayomi / Mihon)
 
-把 [mh250.com](https://www.mh250.com/) 接到 Suwayomi / Mihon 的**私有扩展仓库**。
+把 [mh250.com](https://www.mh250.com/) 接到 Suwayomi 的扩展商店。
 
-## 在 Suwayomi 里安装（推荐）
+## 在 Suwayomi 添加扩展商店
 
-1. 打开 Suwayomi WebUI → **扩展 / Extensions** → **仓库 / Repositories**
-2. 粘贴下面任一地址并添加：
+打开 **扩展 → 扩展商店 / Extension Stores → 添加**，粘贴：
+
+### 推荐（legacy，兼容性最好）
 
 ```text
 https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/index.min.json
 ```
 
-或：
+### 也可
 
 ```text
-https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo
+https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/repo.json
 ```
-
-或 GitHub 仓库地址：
 
 ```text
-https://github.com/cmulittlechild/suwayomi-mh250-extension
+https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/index.json
 ```
 
-3. 回到扩展列表，安装 **MH250**
-4. 在 **Sources** 启用 **MH250**
+添加成功后：
+1. 刷新扩展列表
+2. 安装 **MH250**
+3. 在 Sources 启用 **MH250**
+
+> 注意：不要只贴 GitHub 仓库主页 HTML 地址；请贴上面的 raw JSON 地址。
 
 ## 直接下载 APK
 
-- [`apk/tachiyomi-zh.mh250-v1.4.1.apk`](apk/tachiyomi-zh.mh250-v1.4.1.apk)
+- [apk/tachiyomi-zh.mh250-v1.4.1.apk](apk/tachiyomi-zh.mh250-v1.4.1.apk)
 
 ## 使用提示
 
-- 搜索可输入标题；站点搜索不稳时会回退过滤
-- 也可直接搜 book id，例如：`ee14419c79`（一人之下）
+- 搜索可输入标题；不稳定时会回退过滤
+- 可直接搜 book id，例如 `ee14419c79`（一人之下）
 - 个别章节可能 502，重试即可
 
 ## 版本
@@ -41,9 +44,7 @@ https://github.com/cmulittlechild/suwayomi-mh250-extension
 - package: `eu.kanade.tachiyomi.extension.zh.mh250`
 - version: `1.4.1`
 - lib: `1.4`
-- sha256: `025d76e00e25b20bd2274aa7842f625dfbfcc321274afe90c5c001c6c20c14de`
-- size: 25430 bytes
 
 ## 免责声明
 
-本仓库仅供个人学习与自用。请遵守当地法律与目标网站条款。
+仅供个人学习与自用。请遵守当地法律与目标网站条款。
