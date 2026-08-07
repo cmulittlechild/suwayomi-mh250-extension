@@ -1,7 +1,7 @@
 {
   "name": "MH250",
   "badgeLabel": "MH250",
-  "signingKey": "9d59c31f190ec549a5696bbe2afe203ec19184ed79266cee21dd3816029f16d2",
+  "signingKey": "951454ac11eb97e4ca95b44b44d343969e8e7a0291914e460da4386c57377c4f",
   "contact": {
     "website": "https://github.com/cmulittlechild/suwayomi-mh250-extension",
     "discord": null
@@ -12,20 +12,20 @@
         "name": "MH250",
         "packageName": "eu.kanade.tachiyomi.extension.zh.mh250",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/apk/tachiyomi-zh.mh250-v1.4.2.apk",
+          "apkUrl": "https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/apk/tachiyomi-zh.mh250-v1.4.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/icon/eu.kanade.tachiyomi.extension.zh.mh250.png",
-          "jarUrl": "https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/jar/tachiyomi-zh.mh250-v1.4.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/jar/tachiyomi-zh.mh250-v1.4.3.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": 2,
-        "versionName": "1.4.2",
+        "versionCode": 3,
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": 5917482033648291751,
             "name": "MH250",
             "language": "zh",
-            "homeUrl": "https://www.mh250.com"
+            "homeUrl": "http://www.mh250.com"
           }
         ]
       }
