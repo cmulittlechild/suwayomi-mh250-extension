@@ -12,20 +12,20 @@
         "name": "MH250",
         "packageName": "eu.kanade.tachiyomi.extension.zh.mh250",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/apk/tachiyomi-zh.mh250-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/apk/tachiyomi-zh.mh250-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/icon/eu.kanade.tachiyomi.extension.zh.mh250.png",
-          "jarUrl": "https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/jar/tachiyomi-zh.mh250-v1.4.3.jar"
+          "jarUrl": "https://raw.githubusercontent.com/cmulittlechild/suwayomi-mh250-extension/repo/jar/tachiyomi-zh.mh250-v1.4.4.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": 3,
-        "versionName": "1.4.3",
+        "versionCode": 4,
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": 5917482033648291751,
             "name": "MH250",
             "language": "zh",
-            "homeUrl": "http://www.mh250.com"
+            "homeUrl": "https://255yun.com"
           }
         ]
       }
